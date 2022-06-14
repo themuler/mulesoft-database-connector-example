@@ -1,0 +1,4 @@
+db:
+  username: "development"
+  password: "mdeveloper123"
+  url: "jdbc:postgresql://192.168.0.133:5432/demo_app"
